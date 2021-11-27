@@ -5,5 +5,4 @@
   </a>
 </p>
 
-[Academic Projects](https://www.youtube.com/watch?v=FiVYFWIkNSA&t=140s) \
 [Hackerrank Profile](https://www.hackerrank.com/samirkape)
